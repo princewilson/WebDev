@@ -1,1 +1,3 @@
+# Checkbox
 
+<p style= "font-size: 15px; font-family: 'Courier New'">- Checkboxes are similar to the radio buttons but here you can select multiple options.<br>- To create a checkbox the value of the type attribute of the input tag must be checkbox and you are good to go.<br>- You can also keep a checkbox as checked by default using the attribute checked with the value also as "checked". However, the user can uncheck it if he wants to.</p>
