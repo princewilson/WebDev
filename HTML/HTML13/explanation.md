@@ -1,1 +1,4 @@
+# Radio Buttons
 
+<p style="font-size: 15px; font-family: 'Courier New'">- Radio buttons are small circular buttons which you mostly see on survey forms and to ask the user their preference for a particular subject.<br>- To add a radio button, we again use the input element tag within the form element tag.
+<br>- The point to be noted while using radio buttons is that you only get to choose one option out of the given multiple options.<br>- The value of type in the input tag must be radio.<br>- In this example(thirteen.html) we have just asked a simple yes or no question and we have created two radio buttons respectively.<br>- Note that both the radio button have an attribute called name inside the input tag and both of them are given the same values that is yesorno in this case. We can give any value we want but both of them must be the same or else we will be able to select multiple radio buttons which we don't want.</p>
